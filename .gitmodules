@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "rtestim"]
+	path = rtestim
+	url = https://github.com/dajmcdon/rtestim
 [submodule "sparsegl"]
 	path = sparsegl
 	url = https://github.com/dajmcdon/sparsegl
